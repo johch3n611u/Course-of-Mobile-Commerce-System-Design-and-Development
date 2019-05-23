@@ -113,6 +113,9 @@
     <Content Include="back_end_c50108\37OO_Person.aspx" />
     <Content Include="back_end_c50108\38OO_SuperMan.aspx" />
     <Content Include="back_end_c50108\39OO_Polymorphism.aspx" />
+    <Content Include="back_end_c50108\40GGetAuthImg.aspx" />
+    <Content Include="back_end_c50108\41MainPage.aspx" />
+    <Content Include="back_end_c50108\42Login.aspx" />
     <Content Include="back_end_c50108\ASPnet_DB_Sample.sql" />
     <Content Include="back_end_c50108\ASPnet_DB_Sample2.sql" />
     <Content Include="back_end_c50108\Homework123.aspx" />
@@ -415,63 +418,65 @@
     <Content Include="back_end_c50108\QR_Code\P009.jpg" />
     <Content Include="back_end_c50108\QR_Code\P010.jpg" />
     <Content Include="back_end_c50108\tmpImage\temp.jpg" />
-    <Content Include="Content\bootstrap-grid.css" />
-    <Content Include="Content\bootstrap-grid.min.css" />
-    <Content Include="Content\bootstrap-reboot.css" />
-    <Content Include="Content\bootstrap-reboot.min.css" />
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Scripts\bootstrap.bundle.js" />
-    <Content Include="Scripts\bootstrap.bundle.min.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\esm\popper-utils.js" />
-    <Content Include="Scripts\esm\popper-utils.min.js" />
-    <Content Include="Scripts\esm\popper.js" />
-    <Content Include="Scripts\esm\popper.min.js" />
-    <Content Include="Scripts\esm\popper.min.js.map" />
-    <Content Include="Scripts\esm\popper.js.map" />
-    <Content Include="Scripts\esm\popper-utils.min.js.map" />
-    <Content Include="Scripts\esm\popper-utils.js.map" />
-    <Content Include="Scripts\bootstrap.min.js.map" />
-    <Content Include="Scripts\bootstrap.js.map" />
-    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
-    <Content Include="Scripts\bootstrap.bundle.js.map" />
-    <Content Include="Content\bootstrap.min.css.map" />
-    <Content Include="Content\bootstrap.css.map" />
-    <Content Include="Content\bootstrap-reboot.min.css.map" />
-    <Content Include="Content\bootstrap-reboot.css.map" />
-    <Content Include="Content\bootstrap-grid.min.css.map" />
-    <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap-grid.css" />
+    <Content Include="back_end_c50108\Content\bootstrap-grid.min.css" />
+    <Content Include="back_end_c50108\Content\bootstrap-reboot.css" />
+    <Content Include="back_end_c50108\Content\bootstrap-reboot.min.css" />
+    <Content Include="back_end_c50108\Content\bootstrap.css" />
+    <Content Include="back_end_c50108\Content\bootstrap.min.css" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.bundle.js" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.bundle.min.js" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.js" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.min.js" />
+    <Content Include="back_end_c50108\Scripts\esm\popper-utils.js" />
+    <Content Include="back_end_c50108\Scripts\esm\popper-utils.min.js" />
+    <Content Include="back_end_c50108\Scripts\esm\popper.js" />
+    <Content Include="back_end_c50108\Scripts\esm\popper.min.js" />
+    <Content Include="back_end_c50108\Scripts\esm\popper.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\esm\popper.js.map" />
+    <Content Include="back_end_c50108\Scripts\esm\popper-utils.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\esm\popper-utils.js.map" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.js.map" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\bootstrap.bundle.js.map" />
+    <Content Include="back_end_c50108\Content\bootstrap.min.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap-reboot.min.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap-reboot.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap-grid.min.css.map" />
+    <Content Include="back_end_c50108\Content\bootstrap-grid.css.map" />
     <Content Include="back_end_c50108\HomeWork\後端作業一\作業一.docx" />
     <Content Include="back_end_c50108\HomeWork\後端作業三\作業三.docx" />
     <Content Include="back_end_c50108\HomeWork\後端作業二\作業二.docx" />
     <Content Include="back_end_c50108\36GetMemberPhoto.ashx" />
-    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
-    <Content Include="Scripts\jquery-3.3.1.js" />
-    <Content Include="Scripts\jquery-3.3.1.min.js" />
-    <Content Include="Scripts\jquery-3.3.1.slim.js" />
-    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
-    <Content Include="Scripts\popper-utils.js" />
-    <Content Include="Scripts\popper-utils.min.js" />
-    <Content Include="Scripts\popper.js" />
-    <Content Include="Scripts\popper.min.js" />
-    <Content Include="Scripts\umd\popper-utils.js" />
-    <Content Include="Scripts\umd\popper-utils.min.js" />
-    <Content Include="Scripts\umd\popper.js" />
-    <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="back_end_c50108\40GetAuthImg.ashx" />
+    <Content Include="back_end_c50108\Site1.Master" />
+    <None Include="back_end_c50108\Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.min.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="back_end_c50108\Scripts\popper-utils.js" />
+    <Content Include="back_end_c50108\Scripts\popper-utils.min.js" />
+    <Content Include="back_end_c50108\Scripts\popper.js" />
+    <Content Include="back_end_c50108\Scripts\popper.min.js" />
+    <Content Include="back_end_c50108\Scripts\umd\popper-utils.js" />
+    <Content Include="back_end_c50108\Scripts\umd\popper-utils.min.js" />
+    <Content Include="back_end_c50108\Scripts\umd\popper.js" />
+    <Content Include="back_end_c50108\Scripts\umd\popper.min.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Scripts\umd\popper.min.js.map" />
-    <Content Include="Scripts\umd\popper.js.map" />
-    <Content Include="Scripts\umd\popper-utils.min.js.map" />
-    <Content Include="Scripts\umd\popper-utils.js.map" />
-    <Content Include="Scripts\README.md" />
-    <Content Include="Scripts\popper.min.js.map" />
-    <Content Include="Scripts\popper.js.map" />
-    <Content Include="Scripts\popper-utils.min.js.map" />
-    <Content Include="Scripts\popper-utils.js.map" />
+    <Content Include="back_end_c50108\Scripts\umd\popper.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\umd\popper.js.map" />
+    <Content Include="back_end_c50108\Scripts\umd\popper-utils.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\umd\popper-utils.js.map" />
+    <Content Include="back_end_c50108\Scripts\README.md" />
+    <Content Include="back_end_c50108\Scripts\popper.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\popper.js.map" />
+    <Content Include="back_end_c50108\Scripts\popper-utils.min.js.map" />
+    <Content Include="back_end_c50108\Scripts\popper-utils.js.map" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="back_end_c50108\01firstwebpage.aspx.cs">
@@ -757,6 +762,30 @@
     <Compile Include="back_end_c50108\39OO_Polymorphism.aspx.designer.cs">
       <DependentUpon>39OO_Polymorphism.aspx</DependentUpon>
     </Compile>
+    <Compile Include="back_end_c50108\40GetAuthImg.ashx.cs">
+      <DependentUpon>40GetAuthImg.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="back_end_c50108\40GGetAuthImg.aspx.cs">
+      <DependentUpon>40GGetAuthImg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="back_end_c50108\40GGetAuthImg.aspx.designer.cs">
+      <DependentUpon>40GGetAuthImg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="back_end_c50108\41MainPage.aspx.cs">
+      <DependentUpon>41MainPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="back_end_c50108\41MainPage.aspx.designer.cs">
+      <DependentUpon>41MainPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="back_end_c50108\42Login.aspx.cs">
+      <DependentUpon>42Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="back_end_c50108\42Login.aspx.designer.cs">
+      <DependentUpon>42Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="back_end_c50108\App_Code\Animal.cs" />
     <Compile Include="back_end_c50108\App_Code\Cat.cs" />
     <Compile Include="back_end_c50108\App_Code\Dog.cs" />
@@ -800,12 +829,19 @@
     <Compile Include="back_end_c50108\HomeWork\後端作業二\完成結果檔\Homework.aspx.designer.cs">
       <DependentUpon>Homework.aspx</DependentUpon>
     </Compile>
+    <Compile Include="back_end_c50108\Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="back_end_c50108\Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
-    <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.3.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -814,7 +850,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Scripts\index.d.ts" />
+    <TypeScriptCompile Include="back_end_c50108\Scripts\index.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />

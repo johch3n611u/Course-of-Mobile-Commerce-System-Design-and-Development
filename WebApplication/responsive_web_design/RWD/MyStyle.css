@@ -1,0 +1,17 @@
+﻿.table-hover tbody tr:hover {
+    color: #006bb2;
+    background-color: #ffd800;
+    border:3px dotted red;
+}
+
+
+.breadcrumb .active {
+    background-color: #ff6a00;
+    color: white;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    
+    color: red;
+    content: ">";
+}

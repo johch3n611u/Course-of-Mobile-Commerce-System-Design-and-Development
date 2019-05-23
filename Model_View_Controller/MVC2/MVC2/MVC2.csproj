@@ -120,6 +120,7 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>dbProductModel.Designer.cs</LastGenOutput>
     </EntityDeploy>
+    <Content Include="images\bbbb.jpg" />
     <Content Include="Models\dbProductModel.edmx.diagram">
       <DependentUpon>dbProductModel.edmx</DependentUpon>
     </Content>

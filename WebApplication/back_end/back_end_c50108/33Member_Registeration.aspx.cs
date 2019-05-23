@@ -121,7 +121,7 @@ namespace ASPnet
             MailAddress to = new MailAddress(mail);
             MailMessage Msg = new MailMessage(from, to);
             Msg.Subject = "會員註冊認證信";
-            Msg.Body = "請點擊下列超鏈結完成會員註冊認證<br /><br /><a href='http://localhost:57023/35Auth_OK.aspx?account="+account+"'>請點我</a>";
+            Msg.Body = "請點擊下列超鏈結完成會員註冊認證<br /><br /><a href='http://localhost:64120/back_end_c50108/35Auth_OK.aspx?account=" + account+"'>請點我</a>";
             Msg.IsBodyHtml = true;
 
             myMail.Send(Msg);

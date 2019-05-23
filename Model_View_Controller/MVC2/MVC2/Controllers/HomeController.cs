@@ -74,7 +74,7 @@ namespace MVC2.Controllers
             return View();
         }
 
-
+        //00-5-1 在HomeController裡撰寫GET及POST的Edit Action
         public ActionResult Edit(string fId)
         {
             var product = db.tProduct.Where(m => m.fId == fId).FirstOrDefault();
@@ -92,16 +92,17 @@ namespace MVC2.Controllers
 
                 if (fImg != null)
                 {
-
+                    //檔案上傳
                     if (fImg.ContentLength > 0)
                     {
+                        //取得圖檔名稱
                         fileName = Path.GetFileName(fImg.FileName);
                         fImg.SaveAs(Server.MapPath("~/images/" + fileName));
                     }
                 }
                 else
                 {
-                    fileName = oldImg;
+                    fileName = oldImg; //若無上傳圖檔，則指定hidden隱藏欄位的資料
                 }
 
 
@@ -114,7 +115,7 @@ namespace MVC2.Controllers
 
                 db.SaveChanges();
 
-                return RedirectToAction("Index");
+                return RedirectToAction("Index");//導向Index的Action方法
             }
             catch (Exception ex)
             {
@@ -175,3 +176,20 @@ namespace MVC2.Controllers
 //00-4-5 修改form的HTML Helper為一般的from
 //00-4-6 修改圖片上傳處表單
 //00-4-7 加入例外訊息顯示處
+
+//00-5 製作Edit頁面及修改產品功能
+//00-5-1 在HomeController裡撰寫GET及POST的Edit Action
+//00-5-2 在public ActionResult Edit()上按右鍵,新增檢視,建立Edit View
+//00-5-3 進行下列設定:
+//       View name:Edit
+//       Template:Edit
+//       Model class:tStudent(_00MVC.Models)
+//       Data context class:dbProductEntities(_00MVC.Models)
+//       勾選Use a layout pages
+//       按下Add
+//00-5-4 修改Edit View,英文文字為中文
+//00-5-5 修改form的HTML Helper為一般的from
+//00-5-6 修改圖片上傳處表單
+//00-5-7 加入錯誤訊息顯示處
+
+//00-5 執行與測試

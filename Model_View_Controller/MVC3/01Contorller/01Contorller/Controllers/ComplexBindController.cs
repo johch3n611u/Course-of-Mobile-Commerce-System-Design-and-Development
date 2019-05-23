@@ -14,7 +14,7 @@ namespace _01Contorller.Controllers
         //{
         //    return View();
         //}
-        
+
         //02-3-6 建立GET與POST的Create方法
         public ActionResult Create()
         {

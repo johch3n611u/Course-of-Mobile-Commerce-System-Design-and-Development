@@ -116,6 +116,7 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\SimpleBind\Create.cshtml" />
+    <Content Include="Views\ComplexBind\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
