@@ -116,6 +116,7 @@
     <Content Include="back_end_c50108\40GGetAuthImg.aspx" />
     <Content Include="back_end_c50108\41MainPage.aspx" />
     <Content Include="back_end_c50108\42Login.aspx" />
+    <Content Include="back_end_c50108\43ListView.aspx" />
     <Content Include="back_end_c50108\ASPnet_DB_Sample.sql" />
     <Content Include="back_end_c50108\ASPnet_DB_Sample2.sql" />
     <Content Include="back_end_c50108\Homework123.aspx" />
@@ -417,6 +418,11 @@
     <Content Include="back_end_c50108\QR_Code\P008.jpg" />
     <Content Include="back_end_c50108\QR_Code\P009.jpg" />
     <Content Include="back_end_c50108\QR_Code\P010.jpg" />
+    <None Include="back_end_c50108\Scripts\jquery-3.0.0-vsdoc.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.min.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.slim.js" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.slim.min.js" />
     <Content Include="back_end_c50108\tmpImage\temp.jpg" />
     <Content Include="back_end_c50108\Content\bootstrap-grid.css" />
     <Content Include="back_end_c50108\Content\bootstrap-grid.min.css" />
@@ -452,6 +458,8 @@
     <Content Include="back_end_c50108\36GetMemberPhoto.ashx" />
     <Content Include="back_end_c50108\40GetAuthImg.ashx" />
     <Content Include="back_end_c50108\Site1.Master" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.min.map" />
+    <Content Include="back_end_c50108\Scripts\jquery-3.0.0.slim.min.map" />
     <None Include="back_end_c50108\Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="back_end_c50108\Scripts\jquery-3.3.1.js" />
     <Content Include="back_end_c50108\Scripts\jquery-3.3.1.min.js" />
@@ -785,6 +793,13 @@
     </Compile>
     <Compile Include="back_end_c50108\42Login.aspx.designer.cs">
       <DependentUpon>42Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="back_end_c50108\43ListView.aspx.cs">
+      <DependentUpon>43ListView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="back_end_c50108\43ListView.aspx.designer.cs">
+      <DependentUpon>43ListView.aspx</DependentUpon>
     </Compile>
     <Compile Include="back_end_c50108\App_Code\Animal.cs" />
     <Compile Include="back_end_c50108\App_Code\Cat.cs" />

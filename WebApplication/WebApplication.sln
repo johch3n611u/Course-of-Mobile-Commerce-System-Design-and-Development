@@ -25,10 +25,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "responsive_web_design(1)", 
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "6550"
+		SlnRelativePath = "responsive_web_design\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07WebAPI", "..\Model_View_Controller\MVC3\07WebAPI\07WebAPI.csproj", "{082D4A80-F7C7-4823-85AB-276DC8ECCACC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,10 +47,6 @@ Global
 		{3FE77CB2-0DD8-4380-8ED2-220A37197D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE77CB2-0DD8-4380-8ED2-220A37197D57}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FE77CB2-0DD8-4380-8ED2-220A37197D57}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{082D4A80-F7C7-4823-85AB-276DC8ECCACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{082D4A80-F7C7-4823-85AB-276DC8ECCACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{082D4A80-F7C7-4823-85AB-276DC8ECCACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{082D4A80-F7C7-4823-85AB-276DC8ECCACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
