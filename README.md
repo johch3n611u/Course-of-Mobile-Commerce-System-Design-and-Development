@@ -1,13 +1,13 @@
-##勞動力發展署高屏澎東分署       2019-(01-07月)
-#行動商務系統設計與開發課程       iCAP認證課程
-#900小時職前班                     範例實作
+## 勞動力發展署高屏澎東分署       2019-(01-07月)
+# 行動商務系統設計與開發課程       iCAP認證課程
+# 900小時職前班                     範例實作
 
   - [每日#詳細學習過程請參考:Gitbook南訓日誌](https://app.gitbook.com/@johch3n611u/s/c50108/)
   - [結訓#專案實作請參考:PetPet寵物交友平台](https://app.gitbook.com/@johch3n611u/s/c50108/)
 
 > **內容**:MVC 1-4、SignalR、front_end RWD html5 jQ 1-41、back_end webform 1-43
 
-##目錄
+## 目錄
 
   1. [MVC 實作](#MVC)
   1. [SignalR 實作](#SignalR)
@@ -16,7 +16,7 @@
 
 
 
-#MVC 實作包含
+# MVC 實作包含
 
   1. [Entity Framework & Linq to SQL](#)
   1. [MVC CRUD](#)
@@ -35,7 +35,7 @@
   1. [Practice of State Management](#)
   1. [Practice of WebAPI(Restful)](#)
 
-#RWD front_end 實作包含
+# RWD front_end 實作包含
 
   1. [Heading](#)
   1. [pre](#)
@@ -80,11 +80,11 @@
   1. [Ajax_JSON](#) 
   1. [Ajax_WebAPI](#)
 
-#SignalR 實作包含
+# SignalR 實作包含
 
   1. [WebSocket](#)
 
-#back_end Webforms 實作包含
+# back_end Webforms 實作包含
 
 1. [Var](#) 
 1. [Statement](#) 
@@ -124,4 +124,4 @@
 1. [Login](#) 
 1. [ListView](#) 
 
-#內容實記整理 (未完待續)
+# 內容實記整理 (未完待續)
