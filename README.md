@@ -2,8 +2,8 @@
 # 行動商務系統設計與開發課程       iCAP認證課程
 # 900小時職前班                     範例實作
 
-  - [每日#詳細學習過程請參考:Gitbook南訓日誌](https://app.gitbook.com/@johch3n611u/s/c50108/)
-  - [結訓#專案實作請參考:PetPet寵物交友平台](https://app.gitbook.com/@johch3n611u/s/c50108/)
+  - [每日#詳細學習過程請參考:Gitbook南訓日誌](https://johch3n611u.gitbook.io/c50108/)
+  - [結訓#專案實作請參考:PetPet寵物交友平台](https://github.com/johch3n611u/PetPet-.NET_MVC)
 
 > **內容**:MVC 1-4、SignalR、front_end RWD html5 jQ 1-41、back_end webform 1-43
 
