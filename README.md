@@ -1,7 +1,7 @@
 ## 勞動力發展署高屏澎東分署       2019-(01-07月)
 # 行動商務系統設計與開發課程       iCAP認證課程
 # 900小時職前班                     範例實作
-
+  - [課程介紹詳於連結](http://www.mcsdd.tw/Pre/Pre108)
   - [每日#詳細學習過程請參考:Gitbook南訓日誌](https://johch3n611u.gitbook.io/c50108/)
   - [結訓#專案實作請參考:PetPet寵物交友平台](https://github.com/johch3n611u/PetPet-.NET_MVC)
 
