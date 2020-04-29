@@ -9,7 +9,7 @@
 
 ## 結訓成果
 
-![IMAGE]()
+![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_1.jpg)
 
 ## 目錄
 
@@ -39,9 +39,7 @@
 
   </br>
 
-
-  ![](https://github.com/johch3n611u/Little-donkey/blob/master/67645067_2408176846174072_1918706373823037440_n.jpg)
-
+  ![IMAGE](https://github.com/johch3n611u/Little-donkey/blob/master/67645067_2408176846174072_1918706373823037440_n.jpg)
 
 </br>
 
@@ -126,8 +124,6 @@
 1. [NavBar](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/responsive_web_design/RWD)
 1. [Collapse](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/responsive_web_design/RWD)
 
-
-
 # back_end Webforms 實作包含 <a id='back_end'></a>
 
 1. [Var](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
@@ -169,3 +165,5 @@
 1. [ListView](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
 
 # 內容實記整理 (未完待續)
+
+![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_2.jpg)
