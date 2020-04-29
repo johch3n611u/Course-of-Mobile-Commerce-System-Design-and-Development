@@ -7,14 +7,16 @@
 
 > **內容**:MVC 1-4、SignalR、front_end RWD html5 jQ 1-41、back_end webform 1-43
 
+## 結訓成果
+
+![IMAGE]()
+
 ## 目錄
 
   1. [.Net MVC 實作](#MVC)
   1. [.Net SignalR 實作](#SignalR)
   1. [RWD Bootstrap front_end 實作](#front_end)
   1. [Webform back_end 實作](#back_end)
-
-
 
 # MVC 實作包含 <a id='MVC'></a>
 
@@ -34,19 +36,19 @@
   1. [Practice of Bundle](https://github.com/johch3n611u/Little-donkey/tree/master/Model_View_Controller)
   1. [Practice of State Management](https://github.com/johch3n611u/Little-donkey/tree/master/Model_View_Controller)
   1. [Practice of WebAPI(Restful)](https://github.com/johch3n611u/Little-donkey/tree/master/Model_View_Controller)
-  
+
   </br>
-  
-   
+
+
   ![](https://github.com/johch3n611u/Little-donkey/blob/master/67645067_2408176846174072_1918706373823037440_n.jpg)
-  
-  
+
+
 </br>
 
 # SignalR 實作包含 <a id='SignalR'></a>
 
   1. [WebSocket](https://github.com/johch3n611u/Little-donkey/tree/master/SignalR)
-  
+
 # RWD front_end 實作包含 <a id='front_end'></a>
 
 ### HTML5&JQ
@@ -88,10 +90,10 @@
   1. [jQ_ShowHide](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
   1. [jQ_Slide](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
   1. [jQ_fade](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
-  1. [jQ_Basic_Animate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108) 
-  1. [jQ_GoogleAPI](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108) 
-  1. [jQ_Pokamon_Animate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108) 
-  1. [Ajax_JSON](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108) 
+  1. [jQ_Basic_Animate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
+  1. [jQ_GoogleAPI](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
+  1. [jQ_Pokamon_Animate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
+  1. [Ajax_JSON](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
   1. [Ajax_WebAPI](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/front_end/front_end_c50108)
 
 ### RWD Bootstrap
@@ -128,42 +130,42 @@
 
 # back_end Webforms 實作包含 <a id='back_end'></a>
 
-1. [Var](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Statement](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [practice](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [if](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [switch](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [for](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [foreach](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [while](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Webform_StandardControls](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Webform_MemberForm](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Webform_Validation](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [DB_Connection](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_DataSource](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_Paging](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_Search](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_BoundField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_BottonField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GridView_HyperLinkField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [CommandField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [DataList_itemTeamlate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [DataList_SelectedItemTemplate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [DataList_Edit](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [SQL_StoredProcedure](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [QR_Code](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [ADOnet_SqlDataAdapter](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [ADOnet_SqlDataReader](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Product_Search_QR_Code](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Member_Registeration](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Smtp_Client](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Auth_OK](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [FormView](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GetMemberPhoto](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [OO](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [GetAuthImg](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [MainPage](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [Login](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
-1. [ListView](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108) 
+1. [Var](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Statement](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [practice](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [if](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [switch](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [for](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [foreach](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [while](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Webform_StandardControls](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Webform_MemberForm](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Webform_Validation](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [DB_Connection](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_DataSource](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_Paging](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_Search](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_BoundField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_BottonField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GridView_HyperLinkField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [CommandField](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [DataList_itemTeamlate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [DataList_SelectedItemTemplate](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [DataList_Edit](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [SQL_StoredProcedure](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [QR_Code](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [ADOnet_SqlDataAdapter](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [ADOnet_SqlDataReader](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Product_Search_QR_Code](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Member_Registeration](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Smtp_Client](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Auth_OK](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [FormView](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GetMemberPhoto](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [OO](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [GetAuthImg](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [MainPage](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [Login](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
+1. [ListView](https://github.com/johch3n611u/Little-donkey/tree/master/WebApplication/back_end/back_end_c50108)
 
 # 內容實記整理 (未完待續)
