@@ -86,6 +86,12 @@ IIS 與 Apache 管理、VM Ware 操作與使⽤、AD 架構與管理實務
 
 ![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_1.jpg?raw=true)
 
+## [網頁端 Web : 詳見鏈結](https://github.com/johch3n611u/PetPet-.NET_MVC)
+
+## 移動端 Android
+
+![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/Android/Results.png?raw=true)
+
 ## 目錄
 
   1. [.Net MVC 實作](#MVC)
