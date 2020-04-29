@@ -9,7 +9,7 @@
 
 ## 結訓成果
 
-![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_1.jpg)
+![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_1.jpg?raw=true)
 
 ## 目錄
 
@@ -166,4 +166,4 @@
 
 # 內容實記整理 (未完待續)
 
-![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_2.jpg)
+![IMAGE](https://github.com/johch3n611u/Course-of-Mobile-Commerce-System-Design-and-Development/blob/master/achievement_2.jpg?raw=true)
